@@ -2,8 +2,8 @@
 
 Seminar iz RV.
 
-**Članovi tima**:\
-	1. Luka Otović\
+**Članovi tima**:
+		\1. Luka Otović
 
 
 
