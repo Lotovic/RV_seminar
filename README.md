@@ -6,6 +6,7 @@ Seminar iz RV.
 
 1. Luka Otović
 2. Ivo Santini
+3. Mauro Copetti
 
 
 
