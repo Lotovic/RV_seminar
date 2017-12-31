@@ -3,7 +3,7 @@
 Seminar iz RV.
 
 **Članovi tima**:
-	*Luka Otović
+	1. Luka Otović
 
 
 
